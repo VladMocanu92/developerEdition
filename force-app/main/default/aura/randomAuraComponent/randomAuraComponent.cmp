@@ -1,0 +1,5 @@
+<!--
+ - Created by mocan on 24/03/2021.
+ -->
+
+<aura:component description="randomAuraComponent"> </aura:component>
